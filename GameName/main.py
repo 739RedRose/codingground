@@ -1,6 +1,6 @@
 import random
 
-FirstName = ['Crimson', 'Soul', 'Midnight', 'Twilight']
+FirstName = ['Crimson', 'Soul', 'Midnight', 'Twilight', 'Dark', 'Awkward', 'Red', 'Cerulean',  ]
 
 # Add more names to this
 
