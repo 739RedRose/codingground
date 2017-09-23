@@ -1,10 +1,10 @@
 import random
 
-FirstName = ['Crimson', 'Soul', 'Midnight', 'Twilight', 'Dark', 'Awkward', 'Red', 'Cerulean',  ]
+FirstName = ['Crimson', 'Soul', 'Midnight', 'Twilight', 'Dark', 'Awkward', 'Red', 'Cerulean']
 
 # Add more names to this
 
-SecondName = ['Runner', 'Flower', 'Blade', 'Moon']
+SecondName = ['Runner', 'Flower', 'Blade', 'Moon', 'Psychopath', 'Cure', 'Future', 'Mechanism', 'Crisis', 'Ultimate', 'Wing']
 
 # Add more names to this
 
